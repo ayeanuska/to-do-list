@@ -1,0 +1,7 @@
+.wrapper {
+  background: linear-gradient(
+    rgba(217, 141, 184, 0.535),
+    rgba(160, 172, 119, 0.723)
+  );
+  min-height: 100vh;
+}
