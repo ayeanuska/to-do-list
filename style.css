@@ -5,3 +5,7 @@
   );
   min-height: 100vh;
 }
+
+.table {
+  --bs-table-bg: transparent;
+}
